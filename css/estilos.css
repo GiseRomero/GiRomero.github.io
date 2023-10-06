@@ -7,15 +7,6 @@
     font-family: 'Quicksand';
 }
 
-/* para que sea responsivo */
-@media screen and (max-width: 768px) {
-    /* Estilos para pantallas de hasta 768px de ancho */
-}
-
-@media screen and (max-width: 480px) {
-    /* Estilos para pantallas de hasta 480px de ancho */
-}
-
 body {
     background-color: #f5f5f5;
 
